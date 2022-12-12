@@ -60,6 +60,6 @@ crashlytics-build.properties
 
 
 Thumbs.db
-TowerDefensePrototype/Library/
-TowerDefensePrototype/Temp/
-TowerDefensePrototype/Logs/
+EnemySpawningSimulator/Library/
+EnemySpawningSimulator/Temp/
+EnemySpawningSimulator/Logs/
